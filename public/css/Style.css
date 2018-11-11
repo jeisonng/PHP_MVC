@@ -1,0 +1,33 @@
+*{margin: 0; padding: 0;border: 0;}
+html, body{
+    height: 100%;
+}
+
+.teste{width: 1325px;height: 70px}
+
+.Header, .Main{float: left;width: 100%;height: 160px;}
+.Header{height: 200px}
+.Footer{
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    height: 20px;
+    background: black;
+    color: white;
+    font-weight: bold;
+    text-align: center;}
+.Nav{
+    float: left;
+    width: 100%;
+    background: #000000;
+    text-align: center;
+}
+.Nav a{
+    color: white;
+}
+#Form1{
+    box-shadow: black;
+    border: 1px;
+    border: black;
+    background: aliceblue;
+}
